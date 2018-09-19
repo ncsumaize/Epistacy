@@ -23,3 +23,5 @@ If you want to analyze data from a recombinant inbred line population, choose [E
 [ExampleRI.sas](ExampleRI.sas) is a program to analyze actual data from an oat recombinant inbred population.  In addition to the program, you need to download one Excel spreadsheet data file: [RILExampleData.xls](RILExampleData.xls).
 
 4. Download and use R/QTL or QTL Cartographer instead! :)
+
+Please redirect here from http://www4.ncsu.edu/%7Ejholland/Epistacy/epistacy.htm
